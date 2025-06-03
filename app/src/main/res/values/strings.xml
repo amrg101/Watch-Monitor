@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Watch Monitor</string>
+
+    <string name="app_name_wear_module">WatchMonitor Wear</string>
+    <string name="wear_activity_title">Watch Monitor</string>
+    <string name="wear_start_monitoring">Start Monitoring</string>
+    <string name="wear_stop_monitoring">Stop Monitoring</string>
+    <string name="wear_stop_incident">Stop Incident</string>
+    <string name="wear_start_incident">Start Incident</string>
+
+    <string name="notification_channel_name">WatchMonitor Service Channel</string>
+    <string name="notification_channel_description">Channel for WatchMonitor background monitoring</string>
+    <string name="default_notification_title">WatchMonitor Service</string>
+    <string name="monitoring_active_notification_text">Continuous monitoring active</string>
+    <string name="monitoring_incident_notification_text">Incident recording in progress</string>
+
+</resources>
